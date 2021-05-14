@@ -17,4 +17,6 @@ https://www.youtube.com/watch?v=0ZAyGNsJUiY
 
 in the voice call for first 10 secs it request for subscription and then give out the info for blind.. The request can be avoided when pay for the voice calls from server side. And in that you can see.. In 3 secs of delay the voice call reached to phone, which was ran for first time after starting the program, but will come to within 1 and half sec delay from 3secs. if the blind persons phone is set to auto answer calls, he/she can hear contineously. And blind will video stream(apps were avail in playstore itself) or he himself will take pic(by fingerprint scanner tapping) holding phone in the direction he/she faces.
 
-
+# Attention based text generation output
+![Screenshot from 2021-05-14 22-19-46](https://user-images.githubusercontent.com/28312002/118303118-b370ac80-b502-11eb-8c16-96a64ece8162.png)
+![Screenshot from 2021-05-14 22-19-53](https://user-images.githubusercontent.com/28312002/118303131-b66b9d00-b502-11eb-9472-988699143a2b.png)
