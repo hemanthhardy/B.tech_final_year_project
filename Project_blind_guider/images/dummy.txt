@@ -1,0 +1,1 @@
+Where after training the model, test images for prediction will be placed.
