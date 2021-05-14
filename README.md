@@ -3,6 +3,8 @@ objective: is to build a very simple(cost wise, usage) blind guider model unlike
 
 # Application:
   This project wont help them to walk rather let them know whats going around them which is a real vision. eg: a boy riding a cycle, a man walks down the street, a man standing near a blue car.
+  ![Uploading Screenshot from 2021-05-14 22-16-50.png…]()
+
 
 # Technique Used:
   Soft attention based caption generation.
