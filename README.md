@@ -3,6 +3,7 @@ objective: is to build a very simple(cost wise, usage) blind guider model unlike
 
 # Application:
   This project wont help them to walk rather let them know whats going around them which is a real vision. eg: a boy riding a cycle, a man walks down the street, a man standing near a blue car.
+![Screenshot from 2021-05-14 22-16-50](https://user-images.githubusercontent.com/28312002/118302873-6260b880-b502-11eb-99cc-a8f70a90569d.png)
 
 
 # Technique Used:
