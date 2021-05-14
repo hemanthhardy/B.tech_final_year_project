@@ -1,5 +1,5 @@
 # B.tech_final_year_project
-objective: is to build a very simple(cost wise, usage) blind guider model unlike others.
+objective: is to build a very simple(cost wise, usage) blind guider model unlike typical others.
 
 # Application:
   This project wont help them to walk rather let them know whats going around them which is a real vision. eg: a boy riding a cycle, a man walks down the street, a man standing near a blue car.
